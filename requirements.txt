@@ -1,0 +1,7 @@
+livekit-agents
+livekit-agents[google]~=1.2
+livekit-plugins-noise-cancellation
+requests
+python-dotenv
+pydantic-ai-slim[openai,mcp]
+livekit-agents[tavus]~=1.0
